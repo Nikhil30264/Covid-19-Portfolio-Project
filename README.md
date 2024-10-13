@@ -5,7 +5,7 @@ According to Our World in Data, the actual death toll from COVID-19 is "likely t
 ## About the Dataset
 The Our World in Data COVID-19 datasets can be found on https://ourworldindata.org/covid-deaths.
 
-###Two Microsoft Excel Files
+## Two Microsoft Excel Files
 
 The reason behind two files between COVID-19 vaccinations and deaths data for this starter project was for optimization and clarity purposes for certain queries.
 
